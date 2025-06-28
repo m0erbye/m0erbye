@@ -1,6 +1,6 @@
 # Hello, I'm Max
 <a href="https://www.linkedin.com/in/maks-vyshnovskyi-26a8b2304/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/maksvyshnovskyi"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/quewaiz"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 I am a dedicated penetration tester with 5+ months of hands-on experience in vulnerability assessment and web application security testing, specializing in OWASP Top 10 methodologies and bug bounty hunting.
 
