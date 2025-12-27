@@ -1,7 +1,7 @@
 # Hello, I'm Max
 <a href="https://t.me/quewaiz"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-I am a dedicated penetration tester with 5+ months of hands-on experience in vulnerability assessment and web application security testing, specializing in OWASP Top 10 methodologies and bug bounty hunting.
+I am a dedicated penetration tester with 2 years of hands-on experience in vulnerability assessment and web application security testing, specializing in OWASP Top 10 methodologies and bug bounty hunting.
 
 ## Objective
 My journey in cybersecurity has led me to develop expertise in penetration testing and vulnerability research. I am passionate about identifying security flaws and helping organizations strengthen their security posture through comprehensive security assessments and responsible disclosure.
