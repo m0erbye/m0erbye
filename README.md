@@ -1,8 +1,3 @@
-# Hello, I'm Max
-<a href="https://t.me/quewaiz"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
----
-
 ## Knowledge & Skills
 
 **Programming & Scripting:**
