@@ -1,62 +1,38 @@
-# Hello, I'm Max
-<a href="https://t.me/quewaiz"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+## Knowledge & Skills
 
-I am a dedicated penetration tester with 2 years of hands-on experience in vulnerability assessment and web application security testing, specializing in OWASP Top 10 methodologies and bug bounty hunting.
+**Programming & Scripting:**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-## Objective
-My journey in cybersecurity has led me to develop expertise in penetration testing and vulnerability research. I am passionate about identifying security flaws and helping organizations strengthen their security posture through comprehensive security assessments and responsible disclosure.
+**Tools:**
+<br>
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuclei-00D4AA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FFUF-4B275F?style=for-the-badge&logoColor=white" />
 
-## Skills
-| Skill                                         | Associated Project/Experience  |
-|-----------------------------------------------|----------------------------|
-| Web Application Penetration Testing          | Bug Bounty Programs|
-| Vulnerability Assessment and Reporting        | CVE Discovery & Disclosure|
-| Network Security Analysis                     | TCP/IP Protocol Analysis|
-| Security Automation and Scripting            | Custom Python/Bash Scripts|
+**Operating Systems:**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-## Tools
+---
 
-### Penetration Testing
-<div>
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLmap-000000?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FFUF-4B275F?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nuclei-00D4AA?&style=for-the-badge&logoColor=white" />
+## GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0erbye&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### Network & Reconnaissance
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Subfinder-FF4500?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shodan-8B0000?&style=for-the-badge&logoColor=white" />
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0erbye&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
-
-### Programming & Scripting
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-## Security Frameworks & Standards
-- **OWASP Top 10** - Web Application Security Testing
-- **NIST Cybersecurity Framework 2.0** - Risk Management
-- **COBIT 2019** - IT Governance and Management
-
-## Achievements
-- 🔍 Discovered and reported critical vulnerabilities through bug bounty programs
-- 🛡️ Identified SQL Injection, XSS, and IDOR vulnerabilities in production systems
-- 📋 Contributed to CVE database through responsible disclosure
-- 🎯 Developed custom scripts to enhance vulnerability detection efficiency
-
-## Current Focus
-
-- 🔒 Advancing penetration testing methodologies and ethical hacking techniques
-- 🌐 Expanding expertise in network security and VPN configurations
-- 📚 Preparing for advanced cybersecurity certifications
